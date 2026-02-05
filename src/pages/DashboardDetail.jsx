@@ -19,7 +19,7 @@ const DashboardDetail = () => {
         'POTOSI': 'https://app.powerbi.com/view?r=eyJrIjoiZjg4NGM5ZWUtYmJjZS00OWE3LThkOTItMzBhYTFmN2IyMzNhIiwidCI6ImIyNjI1MTcxLWVhOWUtNDVmNC04YTE1LTM3MDc1YTcwNjliMCJ9',
         'PANDO': 'https://app.powerbi.com/view?r=eyJrIjoiZmYyNjc4YjktZGYzNC00MGZmLThjNjctNTJlMDIwZTBkY2Q2IiwidCI6ImIyNjI1MTcxLWVhOWUtNDVmNC04YTE1LTM3MDc1YTcwNjliMCJ9',
         'TARIJA': 'https://app.powerbi.com/view?r=eyJrIjoiZTc1MmIzMmMtOGNjMC00YTk1LTgxODctMjdjNjlmNjE3OWMwIiwidCI6ImIyNjI1MTcxLWVhOWUtNDVmNC04YTE1LTM3MDc1YTcwNjliMCJ9',
-        'global-sales': 'https://docs.google.com/forms/d/e/1FAIpQLSd6NcrGb3amUhB_cpU5SAuTaHvD-GL6zzwd7eXIuwTY1e8trQ/viewform?embedded=true'
+        'Diagnostico de Seguridad Ciudadana': 'https://app.powerbi.com/view?r=eyJrIjoiNjY1Mjc2MTAtODhiMi00MzUxLWFiOWEtYjQyMGFiN2Q5NzAyIiwidCI6ImIyNjI1MTcxLWVhOWUtNDVmNC04YTE1LTM3MDc1YTcwNjliMCJ9'
     };
 
     const iframeUrl = dashboardLinks[id];

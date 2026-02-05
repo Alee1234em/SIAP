@@ -16,7 +16,7 @@ import oruro from '../assets/oruro.png';
 
 
 const demos = [
-    { id: 'global-sales', title: 'Diagnostico de Seguridad Ciudadana', color: '#e3f2fd', image: dashboardPreview },
+    { id: 'Diagnostico de Seguridad Ciudadana', title: 'Diagnostico de Seguridad Ciudadana', color: '#e3f2fd', image: dashboardPreview },
     { id: 'LA PAZ', title: 'LA PAZ', color: '#e8f5e9', image: lapaz },
     { id: 'COCHABAMBA', title: 'COCHABAMBA', color: '#fff3e0', image: cochabamba },
     { id: 'SANTA CRUZ', title: 'SANTA CRUZ', color: '#f3e5f5', image: santacruz },
